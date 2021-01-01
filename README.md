@@ -1,2 +1,2 @@
 # hello-world
-# learning code 
+This is my first readme file. Don't know what I'm doing
